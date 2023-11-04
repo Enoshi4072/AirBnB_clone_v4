@@ -1,0 +1,10 @@
+#api_status {
+    background-color: #ff545f;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    margin-top: -20px; /* To center vertically */
+    border-radius: 50%; /* To make it a circle */
+}
